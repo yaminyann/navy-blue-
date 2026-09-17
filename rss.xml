@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" 
+     xmlns:atom="http://www.w3.org/2005/Atom"
+     xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>navy blue</title>
+    <link>https://yaminyann.github.io/navy-blue-/blog/</link>
+    <description>Latest posts from navy blue</description>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 17 Sep 2026 10:57:40 GMT</lastBuildDate>
+    <atom:link href="https://yaminyann.github.io/navy-blue-/rss.xml" rel="self" type="application/rss+xml"/>
+    <generator>Static Site Generator v2.3.0</generator>
+
+    <item>
+      <title>Navy Blue Dress Guide: Real-Life Tips to Style and Wear With</title>
+      <link>https://yaminyann.github.io/navy-blue-/fashion-advice/navy-blue-dress-guide.html</link>
+      <guid isPermaLink="true">https://yaminyann.github.io/navy-blue-/fashion-advice/navy-blue-dress-guide.html</guid>
+      <pubDate>Thu, 17 Sep 2026 10:57:40 GMT</pubDate>
+      <description>Navy Blue Dress: The thorough, No-Nonsense Guide to Every Issue You’ll Face
+
+
+If you’ve ever reached for a navy blue dress thinking, “This will be easy,” only to end up frustrated by fading colors, lint explosions, or a last-minute shoe crisis, you’re not alone. I used to idealize the navy dress as the answer to every event, work, weddings, weekends. Reality proved otherwise: one wrong wash turned my favorite piece into a faded memory, and don’t get me started on the time I spent thirty minutes</description>
+      <category>Fashion Advice</category>
+      <author>Imran Hossain</author>
+    </item>
+  </channel>
+</rss>
